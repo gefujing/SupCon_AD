@@ -79,4 +79,4 @@ To reproduce the main computational analyses, download the public datasets liste
 
 ## License
 
-The code is provided for academic research and peer-review purposes. The README states that the code will be released under the MIT License, and a formal LICENSE file will be added before publication.
+The software is released under the MIT License.
