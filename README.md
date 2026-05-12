@@ -69,7 +69,7 @@ Expected outputs include trained model checkpoints, prediction probabilities, cr
 
 ## Demo dataset
 
-A small simulated demo dataset can be provided in the demo_data directory to demonstrate code execution without redistributing controlled-access clinical data.
+A small simulated demo dataset can be provided in the 0-test-data directory to demonstrate code execution without redistributing controlled-access clinical data.
 
 Expected runtime for the demo on a normal desktop computer is approximately 5-15 minutes. Full analyses using public single-cell, bulk and spatial transcriptomic datasets require substantially longer runtime depending on dataset size and computing resources.
 
